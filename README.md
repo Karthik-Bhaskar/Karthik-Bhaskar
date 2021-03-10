@@ -18,7 +18,7 @@
   
 - 💬 Ask me about **Machine Learning and Building Intelligent End-End System**  
   
-- 📫 You can reach me at **contact@karthikbhaskar.in**  
+- 📫 You can reach me at **contact [at] karthikbhaskar.in**  
   
 - 📄 Know about my experiences [https://www.karthikbhaskar.in/assets/docs/Karthik_Bhaskar_CV.pdf](https://www.karthikbhaskar.in/assets/docs/Karthik_Bhaskar_CV.pdf)  
   
