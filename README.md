@@ -7,8 +7,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthik-bhaskar" alt="karthik-bhaskar" /></a> </p>  
   
 <p align="left"> <a href="https://twitter.com/karthik_bhaskar" target="blank"><img src="https://img.shields.io/twitter/follow/karthik_bhaskar?logo=twitter&style=for-the-badge" alt="karthik_bhaskar" /></a> </p>  
-
-- 🔍 I'm currently looking for **Job opportunities in the sub-domains of AI (ML, CV, NLP) and Software Engineering**
   
 - 🔭 I’m currently working on [Context Based Question Answering](https://github.com/Karthik-Bhaskar/Context-Based-Question-Answering)  
   
