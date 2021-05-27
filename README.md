@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Karthik Bhaskar</h1>  
-<h3 align="center">Developer | Machine Learning Practitioner | OpenToWork</h3>  
+<h3 align="center">Developer and Data Engineer| Machine Learning Practitioner</h3>  
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthik-bhaskar&label=Profile%20views&color=0e75b6&style=flat" alt="karthik-bhaskar" /> </p>  
   
