@@ -10,7 +10,7 @@
   
 - 🔭 I’m currently working on [Context Based Question Answering](https://github.com/Karthik-Bhaskar/Context-Based-Question-Answering)  
   
-- 👯 I’m looking to collaborate on **Machine Learning, Computer Vision and Natural Language Processing projects**  
+- 👯 I’m looking to collaborate on open-source **Machine Learning, Computer Vision and Natural Language Processing projects**  
   
 - 👨‍💻 Here is my portfolio [https://www.karthikbhaskar.in](https://www.karthikbhaskar.in)  
   
