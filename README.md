@@ -10,7 +10,7 @@
 
 - 🎯 Currently focusing on topics related to: Semantic Search, Recommedations, Large Language Models, SEO
   
-- 🔭 I’m worked on [Context Based Question Answering](https://github.com/Karthik-Bhaskar/Context-Based-Question-Answering)  
+- 🔭 I worked on [Context Based Question Answering](https://github.com/Karthik-Bhaskar/Context-Based-Question-Answering)  
   
 - 👯 I’m looking to collaborate on open-source **Machine Learning, Computer Vision and Natural Language Processing projects**  
   
